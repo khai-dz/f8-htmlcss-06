@@ -877,6 +877,10 @@ label.header-contact__circle {
     text-underline-position: from-font;
 }
 
+.gallery .dots {
+    display: none;
+}
+
 .gallery__img {
     display: block;
     width: 100%;
